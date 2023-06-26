@@ -15,7 +15,10 @@
     column-gap: 1rem;
 }
 
-.nav-logo,
+.nav-logo img{
+    width: 2rem;
+}
+
 .nav-toggle{
     color: var(--title-color);
     font-weight: var(--font-medium);

@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './header.css'
+import HeaderImg from '../../assets/formato-html.png'
 
 function Header () {
     /*menu toggle*/
@@ -7,7 +8,9 @@ function Header () {
   return (
     <header className="header">
         <nav className="nav container">
-            <a href="index.html" className="nav-logo">Portfólio</a>
+            <a href="index.html" className="nav-logo"> 
+                <img src={HeaderImg} alt="html-tag-img" />
+            </a>
             
             <div className={Toggle ? "nav-menu show-menu" : "nav-menu"}>
                 <ul className="nav-list grid">

@@ -59,7 +59,7 @@ const Data = () => {
             Desenvolvedor apaixonado por tecnologia buscando cada vez
             mais por conhecimento e novas tendências e tecnologias.
         </p>
-        <a href="#contact" className="button button-flex">
+        <a href="https://wa.me/5511916033154" rel="noreferrer" target="_blank" className="button button-flex">
             Diga um Olá
             <svg
                 className="button-icon"
