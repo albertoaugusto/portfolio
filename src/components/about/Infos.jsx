@@ -22,7 +22,7 @@ const Infos = () => {
             </span>
         </div>
         <div className="about-box">
-            <i className="bx bx-certification about-icon"></i>
+            <i className="bx bx-badge-check about-icon"></i>
             <h3 className="about-title">
                 Certificados
             </h3>
