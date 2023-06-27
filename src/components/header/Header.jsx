@@ -33,8 +33,8 @@ function Header () {
                     </li>
 
                     <li className="nav-item">
-                        <a href="#projects" className="nav-link">
-                            <i className="uil uil-briefcase-alt nav-icon"></i> Projetos
+                        <a href="#services" className="nav-link">
+                            <i className="uil uil-briefcase-alt nav-icon"></i> Serviços
                         </a>
                     </li>
 

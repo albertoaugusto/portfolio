@@ -9,7 +9,7 @@ const Services = () => {
         setToggleState(index)
     }
   return (
-    <section className="services section" id="section">
+    <section className="services section" id="services">
         <h2 className="section-title">
             Serviços
         </h2>
