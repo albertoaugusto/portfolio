@@ -33,6 +33,7 @@
 .about-title{
     font-size: var(--small-font-size);
     font-weight: var(--font-medium);
+    color: #000;
 }
 
 .about-subtitle{
