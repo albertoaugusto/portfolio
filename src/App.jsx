@@ -7,6 +7,7 @@ import Services from './components/services/Services'
 import Portfolio from './components/portfolio/Portfolio'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import ScrollTop from './components/scrollTop/ScrollTop'
 
 function App () {
   return (
@@ -19,9 +20,10 @@ function App () {
       <Services/>
       <Portfolio />
       <Contact />
-      <Footer/>
     </main>
 
+    <Footer />
+    <ScrollTop />
     </>
   )
 }
