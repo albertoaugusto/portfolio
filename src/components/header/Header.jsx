@@ -53,7 +53,7 @@ function Header () {
                         </a>
                     </li>
                     <li className="nav-item">
-                        <a href="#Contact" onClick={() => setActiveNav("#contact")} className={activeNav === "#contact" ? "nav-link active-link" : "nav-link"}>
+                        <a href="#contact" onClick={() => setActiveNav("#contact")} className={activeNav === "#contact" ? "nav-link active-link" : "nav-link"}>
                             <i className="uil uil-message nav-icon"></i> Contato
                         </a>
                     </li>
